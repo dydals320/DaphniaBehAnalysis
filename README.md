@@ -1,1 +1,5 @@
 # DaphniaBehAnalysis
+
+### Daphnia phenotype tracking was performed using a multistep process beginning with raw video data. All analyses were performed in MATLAB 2020a using custom-written scripts, based in part on the previous algorithms1 to segment video frames and identify continuous centroid paths of individual daphnids. Each frame was turned into a binary image using adaptive background correction and thresholding method. The resulting binary image was analyzed using a consensus approach informed by positional and size parameters to separate the target objects (adult Daphnia) from other objects and then performed tracking followed by measurements of the morphological and behavioral parameters. 
+
+### Albrecht, D. R. & Bargmann, C. I. High-content behavioral analysis of Caenorhabditis elegans in precise spatiotemporal chemical environments. Nature methods 8, 599 (2011).
