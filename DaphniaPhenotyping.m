@@ -116,8 +116,6 @@ for i = 1:length(fileNames)
     % Summarize Data by binning over space and time
     DaphniaDensity(SegFileList);
     
-    LinkedVideo(SegFileList)
-    
     fprintf('Processed File: \n %s \n', [pathname filename]);
 end
 
