@@ -16,3 +16,4 @@
    - Albrecht, D. R. & Bargmann, C. I. High-content behavioral analysis of Caenorhabditis elegans in precise spatiotemporal chemical environments. Nature methods 8, 599 (2011).
    - Le, K. N. et al. An automated platform to monitor long-term behavior and healthspan in Caenorhabditis elegans under precise environmental control. Communications Biology 3, doi:10.1038/s42003-020-1013-2 (2020).
 
+### *counter.m* can be used to manually curate the counting results for the lifespan assay
