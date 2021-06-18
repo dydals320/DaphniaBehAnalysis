@@ -13,7 +13,7 @@
    - Visualize the extracted features via *Ethogram* and *DaphniaDensity*.
 
 3. Data
-![tank image](https://i.imgur.com/nTN305B.gif)
+![TankImage_small](https://user-images.githubusercontent.com/51148581/122502031-d1c73d80-cfc3-11eb-8236-835515342782.gif)
 
 4. References
    - [Albrecht, D. R. & Bargmann, C. I. High-content behavioral analysis of Caenorhabditis elegans in precise spatiotemporal chemical environments. Nature methods 8, 599 (2011).](https://www.nature.com/articles/nmeth.1630)
